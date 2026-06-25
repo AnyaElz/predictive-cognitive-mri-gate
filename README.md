@@ -15,6 +15,8 @@ The architecture functions as a zero-tolerance **"Cognitive MRI"**. If any struc
 ## Hardware Architecture & Flow of Control
 
 The core innovation shifts the safety boundary away from soft software abstractions down to the **hardware-isolated mechanics of the Self-Attention graph**. The main GPU memory cluster no longer performs raw computations that are later checked. Instead, the AGI's base weights are stored in standard memory as encrypted, uninterpretable digital noise
-## 📬 Contact
-For collaboration, research inquiries, or architectural feedback, please reach out via:
+
+## Contact
+For collaboration, research inquiries, or architectural feedback:
+
 * **Email:** slivankinaa@gmail.com
